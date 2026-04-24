@@ -6,6 +6,7 @@
 
 body{
     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(32, 32, 32);
 }
 ul{
     list-style: none;
@@ -33,4 +34,13 @@ nav{
 }
 nav h1{
     color: #fff;
+}
+.cajitas{
+    background-color: bisque;
+    padding: 10px;
+    margin: 25px;
+    border-radius: 10px;
+}
+.inicio{
+    
 }
